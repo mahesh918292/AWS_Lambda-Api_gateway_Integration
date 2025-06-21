@@ -21,11 +21,11 @@ Type api gateway and click create new api and select the rest api
 
 ![7](https://github.com/user-attachments/assets/74c11bdb-5884-433a-9ad5-2c20de5b6666)
 # Enable Lambda Proxy integration inorder to forword everything in the request including
-Query string parameters (e.g., ?a=10&b=5),
-Headers,
-HTTP method,
-Body (for POST/PUT),
-Path,
+Query string parameters (e.g., ?a=10&b=5) <br>
+Headers <br>
+HTTP method <br>
+Body (for POST/PUT) <br>
+Path
 Source IP, stage, etc.
 
 ![Screenshot (399)](https://github.com/user-attachments/assets/4ded557a-6fb3-43d0-acea-2faec66b840a)
